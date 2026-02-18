@@ -81,15 +81,6 @@ Visualizations included:
 
 ---
 
-## 👥 Team
-
-- Aarti Gorle  
-- Emmanuel Jonathan  
-- Moses Kadari  
-- Wu Lin  
-
----
-
 ## 📚 Selected References
 
 - CDC WISQARS
